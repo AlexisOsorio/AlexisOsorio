@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlexisOsorio
-- 👀 I’m interested  ser un desarrollador web profesional
-- 🌱 I’m currently learning  lenguajes de programacion  enfocados a la web
-- 💞️ I’m looking to collaborate on  proyectos que pueda aprender y mejor continuamente
-- 📫 How to reach me 
+- 👀 I’m interested  be a professional web developer
+- 🌱 I’m currently learning  web-focused programming languages
+- 💞️ I’m looking to collaborate on  projects I can learn and continually improve
+//- 📫 How to reach me 
 
 <!---
 AlexisOsorio/AlexisOsorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
